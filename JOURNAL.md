@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 21h | 4 |
+| Week 2 | Tier 1 | 22h | 4 |
 
 ## Contents
 
@@ -147,7 +147,7 @@ Github:
 
 ### 2026-10-18 – # Small fixes
 
-**4h**
+**5h**
 
 # Small fixes
 
