@@ -1,3 +1,6 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-"Hex Socket Bolts, Stainless Steel Size M3 x 0.3 Inches (8 mm)",1,amazon,$14.08,$14.08,https://www.amazon.sg/gp/product/B002A5TN4W/ref=ox_sc_act_title_2?smid=A78PUD8UBC03E&psc=1
-Estimated total shipping,1,,,$8.73,
+﻿Item,Qty,Supplier,Cost/item,Total Cost,link,Notes
+"Hex Socket Bolts, Stainless Steel M3 x 8 mm","1 pack purchased; assembly qty TBD",Amazon.sg,$14.08,$14.08,https://www.amazon.sg/gp/product/B002A5TN4W/ref=ox_sc_act_title_2?smid=A78PUD8UBC03E&psc=1,"Pack contents not recorded; confirm which frame joints use these"
+"M3 nuts to suit attachment bolts",TBD,To be sourced,TBD,TBD,,"Use where modeled holes do not provide a captive thread; confirm count and fit"
+"Other attachment fasteners (size TBD)",TBD,To be confirmed,TBD,TBD,,"Journal describes nut-and-bolt rail attachments; exact sizes and counts not recorded"
+"3D-printing filament",Slicer estimate,"Filament or print-service quote",TBD,TBD,,"Own filament cost = spool price x sliced grams / spool mass in grams; include failed prints for actual spend"
+"Estimated total shipping",1,Recorded estimate,,8.73,,"Existing BOM shipping estimate; confirm what it covers"
