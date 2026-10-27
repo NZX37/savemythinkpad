@@ -6,11 +6,11 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv4q563b0esy01n0u874y6vo)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> My thinkpad is crumbling apart due to the fact that the border has no bezel. So I am making one with modular attatchments
+> My thinkpad is crumbling apart due to the fact that the border has no bezel. So I am making one with modular attatchments!
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 24h | 5 |
+| Week 2 | Tier 1 | 24h | 5 |
 
 ## Contents
 
