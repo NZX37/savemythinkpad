@@ -1,4 +1,5 @@
 ﻿# SaveMyThinkpad
+<img width="1241" height="510" alt="image" src="https://github.com/user-attachments/assets/de23fe40-6837-45d3-a3cc-86e7917faa88" />
 
 A two-piece printed frame for a Lenovo ThinkPad L13 2-in-1 Gen 5, with a V-slot style rail on the rear and removable accessory mounts. This is a prototype; check fit and clearances on your own laptop before printing it.
 
@@ -8,7 +9,8 @@ A two-piece printed frame for a Lenovo ThinkPad L13 2-in-1 Gen 5, with a V-slot 
 
 | File | Qty | Purpose |
 | --- | ---: | --- |
-| `BackFrame.stl` | 1 | Rear frame with the integrated rail |
+| `BackFrameLEFT.stl` | 1 | Rear frame with the integrated rail |
+| `BackFrameRIGHT.stl` | 1 | Rear frame with the integrated rail |
 | `FrontFrame.stl` | 1 | Front frame half |
 | `Vpositive.stl` | As needed | Standard rail mount / attachment interface |
 | `VpositiveWideBase.stl` | As needed | Wide-base rail mount variant |
@@ -42,7 +44,8 @@ The rail profile is incorporated into the rear frame. I added screw holes and jo
 - Walls: 3-4; top and bottom: 4-5 layers; infill: 20-30%.
 - Place each frame half on its broad face where the slicer orientation allows. Add supports only where the slicer preview shows they are needed, and check the rail profile and clip openings in the preview.
 - Slice the parts you plan to use and record the total filament mass to calculate material cost.
-
+<img width="635" height="502" alt="image" src="https://github.com/user-attachments/assets/f037c4c0-ef66-441f-ba83-ba1c0d9d5075" />
+Recommended orientation
 ## Assembly
 
 1. Check the frame halves against the laptop before installing them. Do not force them into place; make sure the vents, ports, hinges, and screen movement remain clear.
