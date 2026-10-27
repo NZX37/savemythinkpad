@@ -39,10 +39,10 @@ The rail profile is incorporated into the rear frame. I added screw holes and jo
 
 ## Printing
 
-- Material: PLA is suitable for an initial fit check. PETG is an option if more temperature tolerance is needed; test the material and fit because the laptop can get warm.
+- Material: PLA is suitable for an initial fit check. PETG is an option if available because the laptop can get warm.
 - Nozzle: 0.4 mm; layer height: 0.20 mm.
-- Walls: 3-4; top and bottom: 4-5 layers; infill: 20-30%.
 - Place each frame half on its broad face where the slicer orientation allows. Add supports only where the slicer preview shows they are needed, and check the rail profile and clip openings in the preview.
+- Use supports when needed please
 - Slice the parts you plan to use and record the total filament mass to calculate material cost.
 <img width="635" height="502" alt="image" src="https://github.com/user-attachments/assets/f037c4c0-ef66-441f-ba83-ba1c0d9d5075" />
 Recommended orientation
